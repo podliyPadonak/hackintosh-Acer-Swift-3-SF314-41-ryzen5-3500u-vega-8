@@ -38,6 +38,8 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 * 1 USB 3.0 Type-A (right side)
 
+* AppleID
+
 ### Credits
 
 * Apple for macOS
