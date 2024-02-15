@@ -18,7 +18,7 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 * Battery Status
 
-* Audio (minijack headphones)
+* Audio
 
 * Microphone
 
@@ -28,13 +28,11 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 * Touchpad
 
-* Media Keys (exclude volume off)
+* Media Keys
 
 ### What is not working
 
 * Internal Wifi (use phone usb tethering for internet)
-
-* Speakers
 
 * Graphic Acceleration (but gpu performance is good)
 
