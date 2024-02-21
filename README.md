@@ -3,7 +3,7 @@ Hackintosh (Opencore) on Acer Swift 3 SF314-41 with AMD Ryzen 5 3500u with Vega 
 
 OpenCore version: 0.9.8
 
-macOS: 11.7.10
+macOS: Sonoma 14.3.1
 
 - CPU: AMD Ryzen 5 3500U
 - Display: AMD Radeon Vega 8 (Working on VRAM 2GB)
@@ -30,6 +30,8 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 * Media Keys
 
+* AppleID (AppStore, Music)
+
 ### What is not working
 
 * Internal Wifi (use phone usb tethering for internet)
@@ -38,7 +40,7 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 * 1 USB 3.0 Type-A (right side)
 
-* AppleID
+* AppleID (exclude working apps:) )
 
 ### Credits
 
