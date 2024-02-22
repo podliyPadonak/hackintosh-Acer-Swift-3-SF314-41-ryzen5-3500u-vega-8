@@ -34,6 +34,8 @@ Please change MLB/ROM/SerialNumber/UUID.
 
 ### What is not working
 
+* SATA
+
 * Internal Wifi (use phone usb tethering for internet)
 
 * Graphic Acceleration (but gpu performance is good)
