@@ -1,4 +1,4 @@
-# hackintosh-Acer-Swift-3-SF314-41-ryzen5-3500u-vega-8
+# hackintosh Acer Swift 3 SF314-41 ryzen5 3500u vega 8
 Hackintosh (Opencore) on Acer Swift 3 SF314-41 with AMD Ryzen 5 3500u with Vega 8 graphics
 
 OpenCore version: 0.9.8
